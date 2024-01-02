@@ -32,7 +32,7 @@ During all these years my excitement towards tech and software development never
 
 <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">   <img width="40px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png">   <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">   <img width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png">   <img width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
 
-
+---
 
 ## My Badges
 [<img width="100px" src="img/gpm.png">](https://www.credly.com/badges/1f197ec6-c43b-47ff-a1ac-82e57a75fe52/public_url)
