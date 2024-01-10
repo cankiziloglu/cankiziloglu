@@ -2,9 +2,7 @@
 
 My name is Can (read like John).
 
-I am an Industrial Engineer and an experienced professional with a history of successful management in various roles. I worked in big corporations for 10 years in roles like financial controller, procurement manager and project manager. Then came my solopreneurship journey for 9 years. First creating a brand and importing men's accessories, grooming and lifestyle products and selling them online. Next, marketing and selling high-end residential houses and new developments. 
-
-During all these years my excitement towards tech and software development never ended. So I decided to act on it and started learning software development. I am now a full stack software developer and I am open to work opportunities.
+I am an Industrial Engineer and I am trainig to become a full stack software developer. I am open to work opportunities.
 
 ---
 
