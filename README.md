@@ -2,7 +2,7 @@
 
 My name is Can (read like John).
 
-I am an Industrial Engineer and I am trainig to become a full stack software developer. I am open to work opportunities.
+I am an Industrial Engineer and I am training to become a full stack software developer. I am open to work opportunities.
 
 ---
 
