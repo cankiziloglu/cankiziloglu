@@ -16,8 +16,6 @@ I am an Industrial Engineer and I am training to become a full stack software de
 
 ## Let's Connect
 
-[![Static Badge](https://img.shields.io/badge/Schedule%20a%20Meeting-4285F4?style=for-the-badge&logo=Google%20Calendar&logoColor=white)](https://calendar.app.google/SMKChiJ1i7DS72N18)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/cankiziloglu)   [![X](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CanKiziloglu)   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cankiziloglu)   [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/membercgk)
 
 ---
