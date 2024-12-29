@@ -1,13 +1,15 @@
 ## Hi there !
 
-My name is Can (read like John).
+I'm Can (read like John).
 
-I am an Industrial Engineer and I am training to become a full stack software developer. I am open to work opportunities.
+I'm a self-taught software developer with a past life as an industrial engineer and entrepreneur experienced in financial controlling, procurement, project management, e-commerce and real estate.
+
+[Visit my website](https://www.cankiziloglu.com) to learn more about me.
 
 ---
 
 - 🔭 I’m currently working on personal projects to gain experience (take a look at my repos if you are interested)
-- 🌱 I’m currently learning next.js 14
+- 🌱 I’m currently learning AI engineering
 - 👯 I’m looking to collaborate on open-source projects where I might be helpful
 - 🤔 I’m looking for help with finding a job where I can learn and grow
 - 💬 Ask me about corporate management, project management, solopreneurship, personal development, productivity, career transitions after 40 😄
